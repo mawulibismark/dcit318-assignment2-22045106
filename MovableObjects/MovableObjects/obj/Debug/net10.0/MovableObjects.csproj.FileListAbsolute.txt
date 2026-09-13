@@ -1,0 +1,15 @@
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.exe
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.deps.json
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.runtimeconfig.json
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.dll
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\bin\Debug\net10.0\MovableObjects.pdb
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.AssemblyInfoInputs.cache
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.AssemblyInfo.cs
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.csproj.CoreCompileInputs.cache
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.dll
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\refint\MovableObjects.dll
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.pdb
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableObjects.genruntimeconfig.cache
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\ref\MovableObjects.dll
+C:\Users\KAKRA\source\repos\MovableObjects\MovableObjects\obj\Debug\net10.0\MovableO.BD8D8C8C.Up2Date
