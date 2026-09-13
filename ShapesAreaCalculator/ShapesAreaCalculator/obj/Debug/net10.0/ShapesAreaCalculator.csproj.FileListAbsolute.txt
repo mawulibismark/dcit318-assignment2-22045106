@@ -1,0 +1,15 @@
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.exe
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.deps.json
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.runtimeconfig.json
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.dll
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\bin\Debug\net10.0\ShapesAreaCalculator.pdb
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.AssemblyInfo.cs
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.dll
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\refint\ShapesAreaCalculator.dll
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.pdb
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAreaCalculator.genruntimeconfig.cache
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ref\ShapesAreaCalculator.dll
+C:\Users\KAKRA\source\repos\ShapesAreaCalculator\ShapesAreaCalculator\obj\Debug\net10.0\ShapesAr.78F61B73.Up2Date
